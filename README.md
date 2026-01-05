@@ -27,7 +27,7 @@
 
 ## 🔗 Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-lsh--dev.vercel.app-blueviolet?style=for-the-badge)](https://sh-dev.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lsh--dev.vercel.app-blueviolet?style=for-the-badge)](https://lsh-dev.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-esuhyun0416@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esuhyun0416@gmail.com)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=100&section=footer)
