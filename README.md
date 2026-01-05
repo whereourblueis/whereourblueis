@@ -25,13 +25,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whereourblueis&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whereourblueis&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</div>
-
 ## 🔗 Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sh--dev.vercel.app-blueviolet?style=for-the-badge)](https://sh-dev.vercel.app)
