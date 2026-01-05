@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=Hi%20there!%20I'm%20SuHyun%20🐰&fontSize=40&fontAlignY=35&desc=Frontend%20Developer&descSize=20&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=Hi%20there!%20I'm%20Su Hyun%20 ✨&fontSize=40&fontAlignY=35&desc=Frontend%20Developer&descSize=20&descAlignY=55)
 
 ## 🛠 Tech Stack
 
@@ -28,8 +28,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeeSuHyun0&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSuHyun0&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=whereourblueis&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whereourblueis&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
 ## 🔗 Links
